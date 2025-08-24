@@ -1,2 +1,5 @@
-# Temperature_Prediction-master
-This project analyzes historical temperature data from Berkeley Earth to explore climate trends. Using Python in a Jupyter Notebook, it cleans, visualizes, and interprets temperature patterns, providing insights into global climate change. An HTML report summarizes the findings for easy sharing.
+File Details:
+Temperature_Analysis.ipynb -> Python Notebook containing the code for the analysis
+Temperature_Analysis.html -> HTML Document created from .ipynb file
+
+Dataset is obtained from Berkley Earth at http://berkeleyearth.org/data/
